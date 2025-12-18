@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshvermaaa/leetcode/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/anshvermaaa/leetcode/tree/master/0509-fibonacci-number) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshvermaaa/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Breadth-First Search
 |  |
@@ -137,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/anshvermaaa/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/anshvermaaa/leetcode/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/anshvermaaa/leetcode/tree/master/0216-combination-sum-iii) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anshvermaaa/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anshvermaaa/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anshvermaaa/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
