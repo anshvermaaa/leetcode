@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshvermaaa/leetcode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/anshvermaaa/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anshvermaaa/leetcode/tree/master/0115-distinct-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshvermaaa/leetcode/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/anshvermaaa/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anshvermaaa/leetcode/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/anshvermaaa/leetcode/tree/master/0509-fibonacci-number) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshvermaaa/leetcode/tree/master/0943-sum-of-subarray-minimums) |
