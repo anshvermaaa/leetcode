@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anshvermaaa/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/anshvermaaa/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/anshvermaaa/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/anshvermaaa/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/anshvermaaa/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshvermaaa/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/anshvermaaa/leetcode/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshvermaaa/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/anshvermaaa/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/anshvermaaa/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anshvermaaa/leetcode/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -215,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anshvermaaa/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/anshvermaaa/leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
