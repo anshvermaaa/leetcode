@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anshvermaaa/leetcode/tree/master/0509-fibonacci-number) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshvermaaa/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anshvermaaa/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
