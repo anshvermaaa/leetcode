@@ -1,16 +1,22 @@
 class Solution {
 public:
-    int numOfWays(int n) {
-        const int mod=1e9+7;
-        if(n==0) return 0;
-        long long int a=6;
-        long long int b=6;
-        for(int i=2;i<=n;i++){
-            long long int tempA=(3*a+2*b)%mod;
-            long long int tempB=(2*a+2*b)%mod;
-            a=tempA;
-            b=tempB;
+    const int mod=1e9+7;
+    vector<vector<int>> dp;
+    const vector<string> ways={"RYR", "RYG", "RGR", "RGY", "YRY", "YRG", "YGR", "YGY", "GRY", "GRG", "GYR", "GYG"};
+    int f(int n,int prevStrIdx){
+        if(n==0) return 1;
+        if(dp[n][prevStrIdx+1]!=-1) return dp[n][prevStrIdx+1];
+        int nOfWays=0;
+        for(int i=0;i<ways.size();i++){
+            if(prevStrIdx==-1||(prevStrIdx!=i&&ways[i][0]!=ways[prevStrIdx][0]&&ways[i][1]!=ways[prevStrIdx][1]&&ways[i][2]!=ways[prevStrIdx][2])){
+                nOfWays+=f(n-1,i);
+                nOfWays%=mod;
+            }
         }
-        return (int)((a+b)%mod);
+        return dp[n][prevStrIdx+1]=nOfWays%mod;
+    }
+    int numOfWays(int n) {
+        dp.resize(n+1,vector<int>(13,-1));
+        return f(n,-1)%mod;
     }
 };
