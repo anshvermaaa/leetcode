@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anshvermaaa/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/anshvermaaa/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anshvermaaa/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/anshvermaaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshvermaaa/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshvermaaa/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1390-four-divisors](https://github.com/anshvermaaa/leetcode/tree/master/1390-four-divisors) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/anshvermaaa/leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/anshvermaaa/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anshvermaaa/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/anshvermaaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/anshvermaaa/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/anshvermaaa/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anshvermaaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
