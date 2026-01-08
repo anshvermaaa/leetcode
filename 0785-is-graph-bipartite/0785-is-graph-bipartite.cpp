@@ -10,7 +10,7 @@ public:
             for(auto neighbor:graph[currNode]){
                 if(colored[neighbor]==-1){
                     qu.push(neighbor);
-                    colored[neighbor]=1-colored[currNode];
+                    colored[neighbor]=colored[currNode]==0?1:0;
                 }
                 else if(colored[neighbor]!=-1&&colored[neighbor]==colored[currNode]) return false;
                 else continue;
