@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anshvermaaa/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anshvermaaa/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anshvermaaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/anshvermaaa/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/anshvermaaa/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshvermaaa/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Tree
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/anshvermaaa/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/anshvermaaa/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/anshvermaaa/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/anshvermaaa/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -218,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/anshvermaaa/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/anshvermaaa/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
