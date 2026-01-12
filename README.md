@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anshvermaaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshvermaaa/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshvermaaa/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1266-minimum-time-visiting-all-points](https://github.com/anshvermaaa/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/anshvermaaa/leetcode/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshvermaaa/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/anshvermaaa/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/anshvermaaa/leetcode/tree/master/0509-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/anshvermaaa/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/anshvermaaa/leetcode/tree/master/1390-four-divisors) |
 ## Recursion
 |  |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/anshvermaaa/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/anshvermaaa/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
