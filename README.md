@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anshvermaaa/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anshvermaaa/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/anshvermaaa/leetcode/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/anshvermaaa/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshvermaaa/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Design
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshvermaaa/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/anshvermaaa/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0895-maximum-frequency-stack](https://github.com/anshvermaaa/leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Queue
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anshvermaaa/leetcode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/anshvermaaa/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anshvermaaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0895-maximum-frequency-stack](https://github.com/anshvermaaa/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -356,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshvermaaa/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/anshvermaaa/leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
