@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/anshvermaaa/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/anshvermaaa/leetcode/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshvermaaa/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/anshvermaaa/leetcode/tree/master/0089-gray-code) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
