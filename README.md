@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/anshvermaaa/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1390-four-divisors](https://github.com/anshvermaaa/leetcode/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshvermaaa/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/anshvermaaa/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anshvermaaa/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshvermaaa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshvermaaa/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/anshvermaaa/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Trie
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/anshvermaaa/leetcode/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/anshvermaaa/leetcode/tree/master/0389-find-the-difference) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anshvermaaa/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/anshvermaaa/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Doubly-Linked List
 |  |
