@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshvermaaa/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2401-longest-nice-subarray](https://github.com/anshvermaaa/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/anshvermaaa/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2560-house-robber-iv](https://github.com/anshvermaaa/leetcode/tree/master/2560-house-robber-iv) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/anshvermaaa/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anshvermaaa/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anshvermaaa/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshvermaaa/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2560-house-robber-iv](https://github.com/anshvermaaa/leetcode/tree/master/2560-house-robber-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/anshvermaaa/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anshvermaaa/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [2560-house-robber-iv](https://github.com/anshvermaaa/leetcode/tree/master/2560-house-robber-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anshvermaaa/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/anshvermaaa/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshvermaaa/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2560-house-robber-iv](https://github.com/anshvermaaa/leetcode/tree/master/2560-house-robber-iv) |
 ## Prefix Sum
 |  |
 | ------- |
