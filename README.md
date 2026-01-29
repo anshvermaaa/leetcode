@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshvermaaa/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshvermaaa/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshvermaaa/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1898-maximum-number-of-removable-characters](https://github.com/anshvermaaa/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anshvermaaa/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshvermaaa/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2401-longest-nice-subarray](https://github.com/anshvermaaa/leetcode/tree/master/2401-longest-nice-subarray) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anshvermaaa/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0981-time-based-key-value-store](https://github.com/anshvermaaa/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1898-maximum-number-of-removable-characters](https://github.com/anshvermaaa/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anshvermaaa/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshvermaaa/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2560-house-robber-iv](https://github.com/anshvermaaa/leetcode/tree/master/2560-house-robber-iv) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/anshvermaaa/leetcode/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/anshvermaaa/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1898-maximum-number-of-removable-characters](https://github.com/anshvermaaa/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshvermaaa/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anshvermaaa/leetcode/tree/master/0189-rotate-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshvermaaa/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1898-maximum-number-of-removable-characters](https://github.com/anshvermaaa/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshvermaaa/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
