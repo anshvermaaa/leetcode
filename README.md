@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/anshvermaaa/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshvermaaa/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anshvermaaa/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1268-search-suggestions-system](https://github.com/anshvermaaa/leetcode/tree/master/1268-search-suggestions-system) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anshvermaaa/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1390-four-divisors](https://github.com/anshvermaaa/leetcode/tree/master/1390-four-divisors) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshvermaaa/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anshvermaaa/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0981-time-based-key-value-store](https://github.com/anshvermaaa/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1268-search-suggestions-system](https://github.com/anshvermaaa/leetcode/tree/master/1268-search-suggestions-system) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anshvermaaa/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anshvermaaa/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshvermaaa/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/anshvermaaa/leetcode/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/anshvermaaa/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/anshvermaaa/leetcode/tree/master/1268-search-suggestions-system) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anshvermaaa/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anshvermaaa/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Hash Table
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshvermaaa/leetcode/tree/master/0014-longest-common-prefix) |
+| [1268-search-suggestions-system](https://github.com/anshvermaaa/leetcode/tree/master/1268-search-suggestions-system) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anshvermaaa/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## String Matching
 |  |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anshvermaaa/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0853-car-fleet](https://github.com/anshvermaaa/leetcode/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1268-search-suggestions-system](https://github.com/anshvermaaa/leetcode/tree/master/1268-search-suggestions-system) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshvermaaa/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshvermaaa/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anshvermaaa/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/anshvermaaa/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1268-search-suggestions-system](https://github.com/anshvermaaa/leetcode/tree/master/1268-search-suggestions-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anshvermaaa/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bucket Sort
