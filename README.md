@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/anshvermaaa/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/anshvermaaa/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/anshvermaaa/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0606-construct-string-from-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0796-rotate-string](https://github.com/anshvermaaa/leetcode/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/anshvermaaa/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/anshvermaaa/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/anshvermaaa/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/anshvermaaa/leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0606-construct-string-from-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anshvermaaa/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshvermaaa/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/anshvermaaa/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/anshvermaaa/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/anshvermaaa/leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0606-construct-string-from-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anshvermaaa/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshvermaaa/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/anshvermaaa/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/anshvermaaa/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0529-minesweeper](https://github.com/anshvermaaa/leetcode/tree/master/0529-minesweeper) |
+| [0606-construct-string-from-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/anshvermaaa/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/anshvermaaa/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
