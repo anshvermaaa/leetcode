@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/anshvermaaa/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2560-house-robber-iv](https://github.com/anshvermaaa/leetcode/tree/master/2560-house-robber-iv) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anshvermaaa/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anshvermaaa/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/anshvermaaa/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anshvermaaa/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/anshvermaaa/leetcode/tree/master/1268-search-suggestions-system) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshvermaaa/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshvermaaa/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anshvermaaa/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anshvermaaa/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anshvermaaa/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
