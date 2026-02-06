@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/anshvermaaa/leetcode/tree/master/0853-car-fleet) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshvermaaa/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshvermaaa/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0978-longest-turbulent-subarray](https://github.com/anshvermaaa/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshvermaaa/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anshvermaaa/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1268-search-suggestions-system](https://github.com/anshvermaaa/leetcode/tree/master/1268-search-suggestions-system) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anshvermaaa/leetcode/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshvermaaa/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshvermaaa/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0978-longest-turbulent-subarray](https://github.com/anshvermaaa/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1143-longest-common-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anshvermaaa/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2560-house-robber-iv](https://github.com/anshvermaaa/leetcode/tree/master/2560-house-robber-iv) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshvermaaa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshvermaaa/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshvermaaa/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0978-longest-turbulent-subarray](https://github.com/anshvermaaa/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [2401-longest-nice-subarray](https://github.com/anshvermaaa/leetcode/tree/master/2401-longest-nice-subarray) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/anshvermaaa/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshvermaaa/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
