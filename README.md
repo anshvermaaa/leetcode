@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/anshvermaaa/leetcode/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/anshvermaaa/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshvermaaa/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/anshvermaaa/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Design
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/anshvermaaa/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/anshvermaaa/leetcode/tree/master/1268-search-suggestions-system) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/anshvermaaa/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anshvermaaa/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anshvermaaa/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Hash Table
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/anshvermaaa/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1143-longest-common-subsequence](https://github.com/anshvermaaa/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anshvermaaa/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/anshvermaaa/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2560-house-robber-iv](https://github.com/anshvermaaa/leetcode/tree/master/2560-house-robber-iv) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anshvermaaa/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3640-trionic-array-ii) |
