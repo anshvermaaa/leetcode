@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshvermaaa/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshvermaaa/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anshvermaaa/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/anshvermaaa/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anshvermaaa/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshvermaaa/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshvermaaa/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anshvermaaa/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/anshvermaaa/leetcode/tree/master/0846-hand-of-straights) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshvermaaa/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/anshvermaaa/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anshvermaaa/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2560-house-robber-iv](https://github.com/anshvermaaa/leetcode/tree/master/2560-house-robber-iv) |
 ## Prefix Sum
