@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3637-trionic-array-i](https://github.com/anshvermaaa/leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3640-trionic-array-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anshvermaaa/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshvermaaa/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anshvermaaa/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshvermaaa/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anshvermaaa/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
