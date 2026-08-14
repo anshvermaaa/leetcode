@@ -1,44 +1,106 @@
-
+struct Node{
+    int key,val,counter;
+    Node* next;
+    Node* prev;
+    Node(int key_,int val_){
+        key=key_;
+        val=val_;
+        counter=1;
+    }
+};
+class LL{
+public:
+    Node* head;
+    Node* tail;
+    int s;
+    LL(){
+        head=new Node(-1,-1);
+        tail=new Node(-1,-1);
+        head->next=tail;
+        tail->prev=head;
+        s=0;
+    }
+    ~LL() {
+        delete head;
+        delete tail;
+    }
+    void insertAtHead(Node* node){
+        node->next=head->next;
+        head->next->prev=node;
+        node->prev=head;
+        head->next=node;
+        s++;
+    }
+    void deleteLastNode(unordered_map<int,Node*> &mp){
+        Node* node=tail->prev;
+        deleteNode(node);
+        mp.erase(node->key);
+        delete node;
+    }
+    void deleteNode(Node* node){
+        node->prev->next=node->next;
+        node->next->prev=node->prev;
+        s--;
+    }
+};
+void initializeIfNotPresent(map<int,LL*> &freq,int f){
+    if(!freq.count(f)){
+        freq[f]=new LL();
+    }
+}
+void deleteIfSizeZero(map<int,LL*> &mp,LL* ll,int f){
+    if(ll->s==0){
+        mp.erase(f);
+        delete ll;
+    }
+}
 class LFUCache {
-private:
-    int capacity;
-    unordered_map<int,list<vector<int>>::iterator> mp;
-    map<int,list<vector<int>>> freq; // list<[key,val,freq]>
+    unordered_map<int,Node*> mp;
+    map<int,LL*> freq;
+    int cap;
+    int s;
 public:
     LFUCache(int capacity) {
-        this->capacity=capacity;
+        cap=capacity;
+        s=0;
     }
     
     int get(int key) {
-        if(!mp.count(key)) return -1;
-        auto node=mp[key];
-        int value=(*node)[1];
-        int freqOfNode=(*node)[2];
-        freq[freqOfNode].erase(node);
-        if(freq[freqOfNode].size()==0) freq.erase(freqOfNode);
-        freq[freqOfNode+1].push_front({key,value,freqOfNode+1});
-        mp[key]=freq[freqOfNode+1].begin();
-        return value;
+        if(!mp.count(key)||cap == 0) return -1;
+        Node* node=mp[key];
+        freq[node->counter]->deleteNode(node);
+        deleteIfSizeZero(freq,freq[node->counter],node->counter);
+        node->counter++;
+        initializeIfNotPresent(freq,node->counter);
+        freq[node->counter]->insertAtHead(node);
+        return node->val;
     }
     
     void put(int key, int value) {
-        if(!mp.count(key)){
-            if(mp.size()==capacity){
-                int lfuListKey=freq.begin()->first;
-                mp.erase(freq[lfuListKey].back()[0]);
-                freq[lfuListKey].pop_back();
-                if(freq[lfuListKey].size()==0) freq.erase(lfuListKey);
+        if(cap==0) return;
+        if(mp.count(key)){
+            Node* node=mp[key];
+            node->val=value;
+
+            freq[node->counter]->deleteNode(node);
+            deleteIfSizeZero(freq, freq[node->counter], node->counter);
+
+            node->counter++;
+            initializeIfNotPresent(freq,node->counter);
+            freq[node->counter]->insertAtHead(node);
+        }else{
+            if(cap==s){
+                LL* lowestFreqList=freq.begin()->second;
+                int f=freq.begin()->first;
+                lowestFreqList->deleteLastNode(mp);
+                deleteIfSizeZero(freq,lowestFreqList,f);
+                s--;
             }
-            freq[1].push_front({key,value,1});
-            mp[key]=freq[1].begin();
-        }
-        else{
-            auto node=mp[key];
-            int freqOfNode=(*node)[2];
-            freq[freqOfNode].erase(node);
-            if(freq[freqOfNode].size()==0) freq.erase(freqOfNode);
-            freq[freqOfNode+1].push_front({key,value,freqOfNode+1});
-            mp[key]=freq[freqOfNode+1].begin();
+            mp[key]=new Node(key,value);
+            Node* node=mp[key];
+            initializeIfNotPresent(freq,1);
+            freq[1]->insertAtHead(node);
+            s++;
         }
     }
 };
