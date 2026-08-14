@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/anshvermaaa/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anshvermaaa/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anshvermaaa/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshvermaaa/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshvermaaa/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshvermaaa/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshvermaaa/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshvermaaa/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anshvermaaa/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anshvermaaa/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Stack
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshvermaaa/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0978-longest-turbulent-subarray](https://github.com/anshvermaaa/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [2401-longest-nice-subarray](https://github.com/anshvermaaa/leetcode/tree/master/2401-longest-nice-subarray) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshvermaaa/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/anshvermaaa/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshvermaaa/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
